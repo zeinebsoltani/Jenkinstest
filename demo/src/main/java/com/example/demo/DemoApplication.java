@@ -8,7 +8,8 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		system.out.println("it's a continuous integration job ");
+		System.out.println("it's a continuous integration job ");
+
 
 	}
 
