@@ -8,8 +8,8 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		system.out.println("it's a test class");
-		assertEquals(expected:true, actual:true);
+		System.out.println("it's a test class");
+		assertEquals(true, true);
 	}
 
 }
